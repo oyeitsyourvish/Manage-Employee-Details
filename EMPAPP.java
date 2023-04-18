@@ -26,7 +26,7 @@ public class EMPAPP {
 					break;
 				}
 				case 6: {
-					System.out.println("Application is cloesed");
+					System.out.println("Application is closed Thanks for Using...");
 					return;
 				}
 
